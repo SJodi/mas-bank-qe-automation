@@ -1,6 +1,6 @@
 # Automation Project - Bank MAS QE
 
-This project is an automation framework for testing the Bank Management and Accounting System using Selenium, Cucumber, JUnit, and Serenity BDD. It includes test scenarios written in Gherkin language and API testing using RestAssured.
+This project is an automation framework for testing System using Selenium, Cucumber, JUnit, and Serenity BDD. It includes test scenarios written in Gherkin language and API testing using RestAssured.
 
 ## Prerequisites
 
