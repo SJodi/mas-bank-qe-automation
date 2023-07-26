@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Api testing","Success create user","SUCCESS","2023-07-26T18:01:58.960228+07:00[Asia/Jakarta]","0.0","4.09"
+"Api testing","Success update user","SUCCESS","2023-07-26T18:02:03.082537+07:00[Asia/Jakarta]","0.0","0.69"
+"Api testing","Delete user","SUCCESS","2023-07-26T18:02:03.78617+07:00[Asia/Jakarta]","0.0","0.54"
+"Todo","User adds a new to-do","SUCCESS","2023-07-26T18:02:04.346454+07:00[Asia/Jakarta]","0.0","17.82"
+"Todo","User completes a to-do","SUCCESS","2023-07-26T18:02:22.489425+07:00[Asia/Jakarta]","0.0","10.63"
+"Todo","User filters active to-dos","SUCCESS","2023-07-26T18:02:33.215873+07:00[Asia/Jakarta]","0.0","9.07"
+"Todo","User deletes a to-do","SUCCESS","2023-07-26T18:02:42.376246+07:00[Asia/Jakarta]","0.0","9.07"

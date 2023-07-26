@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Api testing" skipped="0" tests="3" time="5.32" timestamp="2023-07-26 06:01:58"><testcase name="Success create user"/><testcase name="Success update user"/><testcase name="Delete user"/></testsuite>

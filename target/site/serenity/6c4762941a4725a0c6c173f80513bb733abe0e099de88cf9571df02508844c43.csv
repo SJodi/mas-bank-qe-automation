@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Api testing","Success create user","SUCCESS","2023-07-26T18:01:58.960228+07:00[Asia/Jakarta]","0.0","4.09"
+"Api testing","Success update user","SUCCESS","2023-07-26T18:02:03.082537+07:00[Asia/Jakarta]","0.0","0.69"
+"Api testing","Delete user","SUCCESS","2023-07-26T18:02:03.78617+07:00[Asia/Jakarta]","0.0","0.54"
